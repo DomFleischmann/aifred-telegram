@@ -1,0 +1,7 @@
+{ "name": "AIfred",
+  "description": "A personal assistant telegram bot",
+  "version": "0.0.01",
+  "dependencies": {
+	"request": "latest"
+}
+}
